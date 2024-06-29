@@ -13,4 +13,8 @@ take over where you left off. Here are some of the ways to ensure that code is m
 with the CRUD file from this project in mind, adhering to the above methods adds immense benefits. For example, the way that this function was developed, it could easily be utilized in other
 programs that require create, read, update, and delete functionality. The comments are clear, so it could potentially benefit others if needed.
 
+# How do you approach a problem as a computer scientist?
+Approaching a problem as a computer scientist involves applying systematic and analytical thinking to devise solutions that are efficient, scalable, and effective. This means breaking down and
+understanding the overall problem statement, developing algorithms to begin to come to a solution. After this, comes the implementation and problem solving.
+
 
