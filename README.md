@@ -17,4 +17,18 @@ programs that require create, read, update, and delete functionality. The commen
 Approaching a problem as a computer scientist involves applying systematic and analytical thinking to devise solutions that are efficient, scalable, and effective. This means breaking down and
 understanding the overall problem statement, developing algorithms to begin to come to a solution. After this, comes the implementation and problem solving.
 
+When considering the Grazioso Salvare project
+![image](https://github.com/JurassicJaws1989/CS-340/assets/125808264/9456655f-92c0-452c-89ac-1d0b4c109118)
+
+The problem statement was well defined within the project's rubric and guidelines. We were provided tools to get started building up to the implentation phase. Though, there were times where 
+potential solutions would not end up working, and more research was needed. It involved a lot of back and forth before we ended with a functional project in the end.
+
+# What do computer scientists do, and why does it matter?
+
+Computer scientists study and solve problems using computational methods, algorithms, and systems. Their work spans a wide range of domains and applications, influencing various aspects of society and technology.
+This project was a hypothetical example of how a company has an idea, but no immidiate way of fulfilling it. A computer scientist can often provide solutions to problems that many people may not be suited to solve. Furthermore,
+a project of this type can improve day to day functions at a company like Grazioso Salvare. Where before this type of project is implemented, searching through the sheer quantity of animals within their database was surely a daunting task.
+With this type of innovation, what once likely took many resources and much time now is very quick and easy.
+
+
 
